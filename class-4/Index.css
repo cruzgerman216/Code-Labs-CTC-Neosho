@@ -1,0 +1,36 @@
+body {
+  background-color: lightslategrey;
+}
+
+.card {
+  width: 500px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 500px;
+  background-color: lightblue;
+}
+
+.card img {
+  width: 100%;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
